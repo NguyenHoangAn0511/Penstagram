@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">750919424250-sk545k89b02i3s96t41f422r3rsiaeco.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://pensta-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">750919424250</string>
+    <string name="google_api_key" translatable="false">AIzaSyBaUOGkUYvCGIgT6rFqSHC7TynM6F2KwpI</string>
+    <string name="google_app_id" translatable="false">1:750919424250:android:5cc315abbf3f03727c1143</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBaUOGkUYvCGIgT6rFqSHC7TynM6F2KwpI</string>
+    <string name="google_storage_bucket" translatable="false">pensta.appspot.com</string>
+    <string name="project_id" translatable="false">pensta</string>
+</resources>
